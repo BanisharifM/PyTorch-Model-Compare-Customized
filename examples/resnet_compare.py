@@ -58,4 +58,4 @@ cka = CKA(model1, model2,
 
 cka.compare(dataloader)
 
-cka.plot_results(save_path="../assets/resnet-resnet_compare.png")
+cka.plot_results(save_path="/content/drive/MyDrive/Research/PyTorch-Model-Compare/assets/resnet-resnet_compare.png")

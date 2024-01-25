@@ -1,5 +1,7 @@
 torch
 torchvision
+torch_cka
 tqdm
 matplotlib
 numpy
+timm
